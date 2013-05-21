@@ -5,5 +5,5 @@ a collection of my personal solutions. It is not meant as a source of hints or s
 You are however welcome to review them if you already have.
 
 Currently included solutions:
-61, 64, 65, 80, 89, 93
+60-62, 64-66, 72, 78, 80, 89, 93
 
