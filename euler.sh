@@ -1,0 +1,1 @@
+g++ -I/usr/local/include euler427.c -o euler427 -L/usr/local/lib -lntl -lgmp -lm
